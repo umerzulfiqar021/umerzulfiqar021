@@ -29,20 +29,25 @@ I specialize in building high-performance fintech and travel ecosystems. Current
 
 ---
 
-## 🚀 Key Projects & Professional Impact
+## 🚀 Key Projects & Impact
 
 ### 🌍 I-Tours (Final Year Project)
 * **Role:** Lead Full-Stack Developer
-* **Stack:** React Native & NestJS
-* **Highlight:** Architecting a tourism ecosystem with a robust NestJS backend, focusing on scalable API design and real-time booking logic.
+* **Architecture:** Scalable NestJS API + React Native Frontend.
+* **Core:** Real-time booking logic, multi-role admin panels, and travel management.
 
-### 💳 Fintech & E-commerce (Codek Technologies)
-* **Tetrad App:** Optimized money transfer flows; slashed load times from **3s to 1.5s**.
-* **Seamless Pay:** Integrated secure remittance features and reduced app crashes by **20%**.
-* **Mobile Shop App:** Implemented full purchasing lifecycle with Appium testing and cloud deployment.
+### 💳 Industry Experience (Codek Technologies)
+* **Tetrad App:** Optimized money transfer flows; reduced load times by **50%**.
+* **Seamless Pay:** Built secure remittance features and reduced crashes by **20%**.
+* **Mobile Shop App:** Integrated product analytics, Appium testing, and cloud-based deployment.
 
-### 🤖 Innovation
-* **Offline AI Model App:** Developed a mobile prototype for running local ML models, ensuring privacy and zero-latency predictions without internet.
+---
+
+## ⚡ Professional Skills
+- **Testing:** Automated mobile testing with **Appium**.
+- **Integration:** Complex RESTful API & Third-party service integration.
+- **Optimization:** UI/UX responsiveness and Redux state management.
+- **Methodology:** Agile development and collaborative code reviews.
 
 ---
 
@@ -54,12 +59,12 @@ I specialize in building high-performance fintech and travel ecosystems. Current
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umerzulfiqar021&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Umer's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerzulfiqar021&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umerzulfiqar021&show_icons=true&theme=dark&hide_border=false" alt="Umer's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerzulfiqar021&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerzulfiqar021&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerzulfiqar021&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -73,5 +78,5 @@ I specialize in building high-performance fintech and travel ecosystems. Current
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
